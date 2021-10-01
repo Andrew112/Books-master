@@ -1,0 +1,13 @@
+{
+    "books": [{
+      "id": 1,
+      "name": "How to become a Millionaire",
+      "published": "2018",
+      "publisher": "FastWorks Society"
+    }, {
+      "id": 2,
+      "name": "The new Programmers Almanac",
+      "published": "2015",
+      "publisher": "Broad Concepts Incorporated"
+    }]
+  }
